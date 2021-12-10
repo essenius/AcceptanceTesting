@@ -1,4 +1,4 @@
-# Introduction
+# Introduction - Functional Test Automation, What, Why, How?
 
 ## What is Functional Testing?
 
@@ -7,9 +7,7 @@ Functional testing is validating if the functional requirements of a system are 
 
 Traditionally, functional testing has been done via the application’s user interface (UI). Testers just use the system as if they are end users, and execute their test cases by following scripts that are designed to try and uncover flaws. The figure right shows where the interaction takes place in a model-view-controller (MVC) architecture, which is a good way to separate business logic from UI code. For more details on MVC see the [Wikipedia article](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) on the topic. The tester presents a stimulus to the system, which is handled by the controller, and the response is shown to the tester via a view. Then the tester checks whether the system responds as expected.
 
-
-
-##	Why Automating Functional Testing?
+## Why Automating Functional Testing?
 
 The problem with manual testing is that it is very tedious and labor-intensive work – you need to execute the same activities repeatedly. In Lean terms, it is often a waste of human intellect. Furthermore, with the world going more and more towards agile forms of development such as Scrum, manual testing is no longer feasible. After all, each sprint should result in a releasable product increment, so it should also be fully tested, at least up to system test level. With sprint cycles of a few weeks at most, there is just not enough time to do everything by hand. 
 Additionally, people are usually not very good at executing repetitive tasks, and many people dislike it. They get bored, distracted, or get into an ‘automatic pilot’ mode without much thinking, and may miss defects that way.
