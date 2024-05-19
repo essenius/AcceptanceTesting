@@ -1,6 +1,6 @@
 # AcceptanceTesting
 
-(C) 2013-2021 Rik Essenius
+(C) 2013-2024 Rik Essenius
 
 This is the [root wiki](../../wiki) for a collection of Wiki pages about FitNesse with FitSharp.
 
